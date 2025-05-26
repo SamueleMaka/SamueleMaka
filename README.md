@@ -20,12 +20,5 @@ Attualmente sto costruendo il mio portfolio e sperimentando con progetti persona
 
 ---
 
-## 🧩 Random facts
-
-- A volte studio storia medievale per rilassarmi (strano ma vero)
-- Sogno di lavorare da remoto per un team internazionale
-- La mia distro preferita? Dipende dal giorno 😄
-
----
 
 > “Chi vuole muovere il mondo, prima muova sé stesso.” – Socrate (o forse Linus Torvalds 👀)
